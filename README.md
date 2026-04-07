@@ -22,7 +22,9 @@ The product should support a simple automation flow: a user defines a trigger co
 
 The exact product shape is intentionally unspecified. Choose a narrow interpretation and implement it well.
 
-You may use AI tools during development.
+## Can I use AI? What stack should I use?
+
+You may use any AI tools / workflows you want during development. I recommend using the workflow (and stack!) you are most comfortable with - during the live review, we'll iterate on the submission, so you will need to be able to navigate and extend your own code quickly and easily.
 
 ## Requirements
 
