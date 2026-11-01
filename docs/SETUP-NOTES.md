@@ -1,4 +1,6 @@
-# Recura
+# Recura: setup notes
+
+> Written with AI help as working notes. The submission README is README.md at the repo root.
 
 Clinic portal built on **P**ostgreSQL, **E**xpress, **T**ypeScript, and **N**ode.js, with a React web portal.
 Patients and staff (doctor, manager, boss) sign in, pick a workflow from a dropdown, and click **Run workflow**.
